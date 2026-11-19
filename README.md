@@ -1,10 +1,10 @@
 # The World in One Day — 19 November 2026
 
-![Competition](https://make.fun/badge/news-image-20261119.svg)
-![Rank](https://make.fun/badge/news-image-20261119/lindaayu1200/news-image-20261119/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261119/lindaayu1200/news-image-20261119/reward.svg)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/lindaayu1200/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/lindaayu1200/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A make.fun **news-image-20261119** entry: a deterministic, standard-library-only Python program that publishes a 1024×1024 infographic of the world's news on Thursday 19 November 2026.
+A make.fun [news-image-20261119](https://make.fun/bounty/news-image-20261119) entry: a deterministic, standard-library-only Python program that publishes a 1024×1024 infographic of the world's news on Thursday 19 November 2026.
 
 ## Run it
 
